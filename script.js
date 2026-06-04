@@ -194,10 +194,11 @@
         if (!el) return;
 
         var roles = [
-            'Software Engineer',
-            'Backend Developer',
-            'System Architect',
-            'Clean Code Advocate'
+            'Senior Software Engineer',
+            'Squad Lead',
+            'Java & Spring Boot Engineer',
+            'React & AWS Engineer',
+            'Microservices Architect'
         ];
 
         if (prefersReducedMotion) {
